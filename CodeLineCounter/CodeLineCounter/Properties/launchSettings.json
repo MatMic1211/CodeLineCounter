@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodeLineCounter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\matmi\\OneDrive\\Pulpit\\doliczenia.txt\""
+    }
+  }
+}
