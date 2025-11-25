@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CodeLineCounter/CodeLineCounter/obj
+/CodeLineCounter/.vs/CodeLineCounter/FileContentIndex
+/.vs/CodeLineCounter/v17
